@@ -1,0 +1,75 @@
+------------
+|DANGER LOG|
+------------
+
+Gun violence incidents near Disney land in range 5.0 km: 
+
+id : 1018611, city : Anaheim, state : California, address : 900 block of S Citron St, Killed : 0, Injured : 1, Distance to You: 1.00
+id : 505545, city : Santa Ana, state : California, address : 1500 block of S 9th St, Killed : 0, Injured : 1, Distance to You: 1.22
+id : 311445, city : Anaheim, state : California, address : 1500 block of West Chanticleer Road, Killed : 0, Injured : 0, Distance to You: 1.30
+id : 350538, city : Anaheim, state : California, address : Anaheim Boulevard and West Valencia Avenue, Killed : 1, Injured : 0, Distance to You: 1.66
+id : 878730, city : Anaheim, state : California, address : Harbor Blvd and Orangwood Ave, Killed : 0, Injured : 0, Distance to You: 1.82
+id : 138378, city : Garden Grove, state : California, address : 11500 block of West Street , Killed : 0, Injured : 1, Distance to You: 1.85
+id : 871114, city : Anaheim, state : California, address : 500 S Clementine St, Killed : 0, Injured : 0, Distance to You: 1.99
+id : 780512, city : Anaheim, state : California, address : Euclid St and W Palais Rd, Killed : 0, Injured : 0, Distance to You: 2.04
+id : 734747, city : Anaheim, state : California, address : S Roberts St and W Juno Ave, Killed : 1, Injured : 1, Distance to You: 2.09
+id : 521168, city : Anaheim, state : California, address : 1600 block of Dudley Avenue, Killed : 0, Injured : 1, Distance to You: 2.09
+id : 302823, city : Anaheim, state : California, address : Ball Road and Euclid Street, Killed : 1, Injured : 0, Distance to You: 2.14
+id : 448173, city : Anaheim, state : California, address : 240 East Orangewood Avenue, Killed : 1, Injured : 0, Distance to You: 2.15
+id : 480358, city : Orange (county), state : California, address : Katella Avenue, Killed : 4, Injured : 3, Distance to You: 2.43
+id : 517883, city : Anaheim, state : California, address : 1131 West Lincoln Avenue, Killed : 0, Injured : 1, Distance to You: 2.44
+id : 794625, city : Anaheim, state : California, address : Harbor Blvd and Lincoln Ave, Killed : 0, Injured : 0, Distance to You: 2.45
+id : 417923, city : Anaheim, state : California, address : 1500 block of West Embassy Street, Killed : 1, Injured : 0, Distance to You: 2.49
+id : 434194, city : Anaheim, state : California, address : East Topaz Avenue, Killed : 1, Injured : 0, Distance to You: 2.58
+id : 365855, city : Garden Grove, state : California, address : Chapman Avenue and Jacalene Lane, Killed : 0, Injured : 1, Distance to You: 2.69
+id : 765082, city : Anaheim, state : California, address : 1800 block of W Ball Rd, Killed : 0, Injured : 2, Distance to You: 2.75
+id : 425736, city : Anaheim, state : California, address : 500 block of South Rose Street, Killed : 0, Injured : 1, Distance to You: 2.84
+id : 833592, city : Anaheim, state : California, address : 300 block of S Vine St, Killed : 0, Injured : 1, Distance to You: 2.88
+id : 383049, city : Anaheim, state : California, address : 1300 block of South Nutwood Street, Killed : 0, Injured : 1, Distance to You: 2.88
+id : 477305, city : Anaheim, state : California, address : 300 block of South Bush Street, Killed : 1, Injured : 0, Distance to You: 2.95
+id : 417496, city : Anaheim, state : California, address : 1600 block of South Ivanhoe Street, Killed : 0, Injured : 3, Distance to You: 2.99
+id : 488179, city : Garden Grove, state : California, address : 10600 block of Tibbs Circle, Killed : 0, Injured : 1, Distance to You: 2.99
+id : 536038, city : Anaheim, state : California, address : 951 State College Boulevard, Killed : 0, Injured : 0, Distance to You: 3.02
+id : 865856, city : Anaheim, state : California, address : Broadway and East St, Killed : 1, Injured : 0, Distance to You: 3.08
+id : 508589, city : Anaheim, state : California, address : 2000 block of W Cris Ave, Killed : 1, Injured : 1, Distance to You: 3.08
+id : 644737, city : Garden Grove, state : California, address : 12521 Harbor Boulevard, Killed : 0, Injured : 1, Distance to You: 3.48
+id : 887114, city : Anaheim, state : California, address : 700 block of N Olive St, Killed : 0, Injured : 1, Distance to You: 3.49
+id : 726559, city : Anaheim, state : California, address : E Sycamore St and N Rose St, Killed : 0, Injured : 0, Distance to You: 3.59
+id : 502355, city : Anaheim, state : California, address : 1300 block of West Lido Place, Killed : 1, Injured : 0, Distance to You: 3.60
+id : 378607, city : Anaheim, state : California, address : Lullaby Lane and Poona Drive, Killed : 1, Injured : 1, Distance to You: 3.79
+id : 594690, city : Garden Grove, state : California, address : 12600 block of Audrey Circle, Killed : 0, Injured : 1, Distance to You: 3.89
+id : 354333, city : Anaheim, state : California, address : 300 block of West La Palma Avenue, Killed : 1, Injured : 0, Distance to You: 3.91
+id : 878725, city : Anaheim, state : California, address : 400 block of S Brookhurst St, Killed : 0, Injured : 0, Distance to You: 3.99
+id : 214139, city : Garden Grove, state : California, address : 9900 block of Aldgate Avenue, Killed : 1, Injured : 0, Distance to You: 4.00
+id : 748945, city : Anaheim, state : California, address : 2123 Lincoln Ave, Killed : 1, Injured : 0, Distance to You: 4.03
+id : 322854, city : Orange, state : California, address : 300 block of The City Drive South, Killed : 0, Injured : 0, Distance to You: 4.13
+id : 600199, city : Anaheim, state : California, address : 1161 North Anaheim Boulevard, Killed : 0, Injured : 0, Distance to You: 4.15
+id : 600223, city : Anaheim, state : California, address : 1161 North Anaheim Boulevard, Killed : 0, Injured : 0, Distance to You: 4.15
+id : 600200, city : Anaheim, state : California, address : 1161 North Anaheim Boulevard, Killed : 0, Injured : 0, Distance to You: 4.15
+id : 610367, city : Garden Grove, state : California, address : 9700 block of Katella Avenue, Killed : 0, Injured : 2, Distance to You: 4.19
+id : 624817, city : Anaheim, state : California, address : 57 Freeway and Ball Road, Killed : 0, Injured : 0, Distance to You: 4.30
+id : 678468, city : Orange, state : California, address : 1900-B W Katella Avenue, Killed : 0, Injured : 1, Distance to You: 4.31
+id : 488646, city : Anaheim, state : California, address : 300 block of North Valley Street, Killed : 0, Injured : 1, Distance to You: 4.33
+id : 592903, city : Anaheim, state : California, address : 2100 block of West Brownwood Avenue, Killed : 0, Injured : 1, Distance to You: 4.34
+id : 353817, city : Anaheim, state : California, address : 900 block of East Balsam Avenue, Killed : 0, Injured : 1, Distance to You: 4.36
+id : 795509, city : Anaheim, state : California, address : 800 block of E Balsam Ave, Killed : 0, Injured : 0, Distance to You: 4.36
+id : 637902, city : Anaheim, state : California, address : 1700 block of West La Palma Avenue, Killed : 0, Injured : 2, Distance to You: 4.39
+id : 842545, city : Orange, state : California, address : 1411 W Katella Ave, Killed : 1, Injured : 0, Distance to You: 4.39
+id : 203088, city : Anaheim, state : California, address : Euclid and La Palma , Killed : 0, Injured : 1, Distance to You: 4.44
+id : 355335, city : Garden Grove, state : California, address : 12282 Brookhurst Street, Killed : 0, Injured : 0, Distance to You: 4.63
+id : 903388, city : Anaheim, state : California, address : Katella Ave and Gilbert St, Killed : 0, Injured : 0, Distance to You: 4.64
+id : 801421, city : Garden Grove, state : California, address : 9500 block of Maureen Dr, Killed : 0, Injured : 1, Distance to You: 4.67
+id : 188919, city : Garden Grove, state : California, address : 12200 block of Pearce Avenue, Killed : 0, Injured : 1, Distance to You: 4.71
+id : 114538, city : Garden Grove, state : California, address : Lampson and West 8th , Killed : 0, Injured : 0, Distance to You: 4.71
+id : 797580, city : Anaheim, state : California, address : Lullaby Ln, Killed : 0, Injured : 1, Distance to You: 4.72
+id : 366971, city : Anaheim, state : California, address : 1300 block of West Arlington Avenue, Killed : 0, Injured : 0, Distance to You: 4.79
+id : 450975, city : Anaheim, state : California, address : North Onondaga and West Neighbors Avenue, Killed : 1, Injured : 1, Distance to You: 4.82
+id : 483013, city : Santa Ana, state : California, address : 3300 block of Bristol Street, Killed : 0, Injured : 1, Distance to You: 4.93
+id : 149499, city : Santa Ana, state : California, address : 2900 block of North Bristol Street, Killed : 1, Injured : 0, Distance to You: 5.00
+
+Total Incidents: 62
+Total Killed: 21
+Total Injured: 38
+THE DANGER LEVEL IN THIS AREA IS: HIGH DANGER. Stay Cautious
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
